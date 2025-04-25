@@ -1,0 +1,45 @@
+# IFC Models
+models/
+
+# Python bytecode files
+*.pyc
+*.pyo
+__pycache__/
+
+# Virtual environment directories
+venv/
+env/
+ENV/
+venv.bak/
+
+# Distribution/Packaging
+build/
+dist/
+*.egg-info/
+
+# IDE/Editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store   # macOS
+Thumbs.db   # Windows
+
+# Logs
+*.log
+
+# .env files (if storing sensitive data like API keys)
+.env
+
+# Test and coverage reports
+.coverage
+nosetests.xml
+test-reports/
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# PyCharm specific files
+.idea/
