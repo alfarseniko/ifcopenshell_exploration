@@ -11,3 +11,4 @@ for entity in entities:
     print(entity.Description)
     print(entity.ObjectType)
     print('\n')
+    print('\n')
